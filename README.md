@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @alihaghour
-- 👀 I’m interested in network programming, OS architecture, cryptography.
-- 🌱 I’m currently learning C++ Socket Programming.
-- 💞️ I’m looking to collaborate on programming projects with c++.
-- 📫 How to reach me 
-    Email: Alihaghour15@gmail.com
+# Ali Haghour
 
-<!---
-alihaghour/alihaghour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 alihaghour17@gmail.com
+
+🌐 [LinkedIn](https://www.linkedin.com/in/ali-haghour/)
+
+✍️ [Electronics](https://ahpwelectronics.blogspot.com/)
+
+## Overview
+
+Computer Engineering Student at NJIT
+
+Experience working with:
+
+C++    |    C    |    Python    |    MATLAB 
+
+
+#                          
+
+Feel free to check out my work or contact me with any questions!
